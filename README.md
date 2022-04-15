@@ -1,5 +1,6 @@
 ### Fuji Xmonad Dots
-[Fuji_Rice](Fuji_Rice)
+![Fuji_rice](https://user-images.githubusercontent.com/101019414/163570977-c02f642f-cf87-414f-9adb-34834cc6c61a.png)
+
 #### What has been done:-
 -   Alacritty Colors Customized
 -   Polybar has been customized
