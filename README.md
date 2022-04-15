@@ -1,5 +1,5 @@
 ### Fuji Xmonad Dots
-
+[Fuji_Rice](Fuji_Rice)
 #### What has been done:-
 -   Alacritty Colors Customized
 -   Polybar has been customized
