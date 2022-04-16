@@ -1,0 +1,23 @@
+#Normal Colors
+black - #424153
+gray - #999999
+white - #ededed
+cyan - #66cccc
+red - #ca5129
+blue - #0099cc
+green - #00ff5e
+pink - #ff00a1
+yellow - #FFc800
+purple - #aa00ff
+
+#Lighten Colors
+black - #8e8d98
+gray - #c2c2c2
+white - #f4f4f4
+cyan - #a3e0e0
+red - #df977f
+blue - #66c2e0
+green - #66ff9e
+pink - #ff66c7
+yellow - ffde66
+purple - cc66ff
