@@ -1,0 +1,21 @@
+;; _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+[color]
+
+;; main colors
+background = #121412
+background-alt = #272927
+foreground = #ffffff
+foreground-alt = #738073
+primary = #bf4be5
+
+black = #000000
+white = #ededed
+red = #ff0a26
+green = #0ac909
+yellow = #e4ea07
+blue = #3caacc
+purple = #663399
+cyan = #02e5e5
+
+;; _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
